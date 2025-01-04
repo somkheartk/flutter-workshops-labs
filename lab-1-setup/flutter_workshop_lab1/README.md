@@ -1,7 +1,6 @@
 # flutter_workshop_lab1
 
-A new Flutter project.
-
+flutter create flutter_workshop_lab1
 ## Getting Started
 
 This project is a starting point for a Flutter application.
